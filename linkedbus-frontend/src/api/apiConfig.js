@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'http://localhost:8080/api'; // Assuming your Spring Boot runs on port 8080
