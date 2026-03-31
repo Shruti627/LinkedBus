@@ -567,7 +567,7 @@ export default function RegisterLogin({ onLogin }) {
         </div>
       </section>
 
-      <footer className="mt-10 mb-6 text-center text-sm text-gray-500">© {new Date().getFullYear()} Linked Bus — Shruti</footer>
+      <footer className="mt-10 mb-6 text-center text-sm text-gray-500">© {new Date().getFullYear()} Linked Bus —Ms. Shruti P. Sangvikar</footer>
     </div>
   );
 }
