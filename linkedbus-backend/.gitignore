@@ -1,0 +1,117 @@
+# ===============================
+
+# HELP FILE
+
+# ===============================
+
+HELP.md
+
+# ===============================
+
+# SPRING CONFIG (IGNORE SECRETS)
+
+# ===============================
+
+src/main/resources/application.properties
+src/main/resources/application*.properties
+
+# ===============================
+
+# MAVEN BUILD
+
+# ===============================
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ===============================
+
+# OS FILES
+
+# ===============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+
+# LOGS & TEMP FILES
+
+# ===============================
+
+*.log
+logs/
+*.tmp
+*.swp
+*.bak
+
+# ===============================
+
+# ENV / SECRETS
+
+# ===============================
+
+.env
+.env.*
+
+# ===============================
+
+# TEST OUTPUT / COVERAGE
+
+# ===============================
+
+surefire-reports/
+failsafe-reports/
+coverage/
+*.exec
+
+# ===============================
+
+# STS / ECLIPSE
+
+# ===============================
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# ===============================
+
+# INTELLIJ IDEA
+
+# ===============================
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ===============================
+
+# NETBEANS
+
+# ===============================
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# ===============================
+
+# VS CODE
+
+# ===============================
+
+.vscode/
