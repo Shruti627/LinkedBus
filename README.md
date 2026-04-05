@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ Overview
+## ✨ Overview.
 
 **LinkedBus** is a **production-grade bus booking platform** designed with a clean architecture and real-world features like **secure authentication, online payments, OTP verification, and admin control panel**.
 
