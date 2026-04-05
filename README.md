@@ -100,14 +100,10 @@ MySQL Database
 
 ## 👨‍💻 Author
 
-**Shruti Sangvikar & Sahil Inamdar**
+**Shruti Sangvikar**
 
 - 👩‍💻 Shruti Sangvikar  
   🔗 GitHub: https://github.com/Shruti627  
-
-- 👨‍💻 Sahil Inamdar  
-  🔗 GitHub: https://github.com/sahilinamdar-dev  
-
 
 
 ---
